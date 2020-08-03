@@ -1,0 +1,10 @@
+1 - npm init -y
+2 - npm install express
+3 - npm install cors
+4 - npm install sqlite3
+5 - npx knex init
+6 - npx knex migrate:make NomeMigration
+7 - npx knex migrate:latest
+5 - npm install --save-dev nodemon
+6 - node index.js
+7 - npm start
