@@ -10,6 +10,13 @@ const SessionController = require('./controllers/SessionController')
 //DECLARANDO AS ROTAS
 const routes = express.Router()
 
+
+// POST = CRIA
+// PUT = ATUALIZA
+// GET = BUSCAR
+// DELETE = DELETAR
+
+
 //INFORMANDO AS ROTAS QUE NOS CRIAMOS NO CONTROLLER
 
 //ROTAS DA ONG
