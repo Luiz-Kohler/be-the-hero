@@ -1,5 +1,5 @@
 # Be The Hero
-# Semana Omnistack 11 com linhas comentadas explicando para mostrar qual sua finalidate
+# Semana Omnistack 11 com linhas comentadas explicando para mostrar qual sua finalidade
 
 Este repositório tem como objetivo explicar linha a linha o que esta acontecendo no codigo.
 
